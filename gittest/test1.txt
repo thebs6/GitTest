@@ -3,4 +3,8 @@ lashizhendeniubi
 
 nihoulamedashengganma
 
-you bad
+<<<<<<< HEAD
+you bad you are good
+=======
+
+>>>>>>> v2
